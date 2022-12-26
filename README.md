@@ -5,7 +5,7 @@ Ejemplos para revisar el lenguaje PL/SQL.
 Hay ejemplos para explicar las estructuras de control: secuencia, condición y repetición.
 
 + $\textbf{PLSQL-Basico.SQL}$ -> Contiene las explicaciones de secuencia, condición y repetición
-+ $\textbf{Ejercicios.SQL}$  -> Contiene ejercicios para usar las estructuras de control.
++ $\textbf{EjerciciosCiclos-PLSQL.SQL}$  -> Contiene ejercicios para usar las estructuras de control.
 
 Los ejercicios a resolver:
 
