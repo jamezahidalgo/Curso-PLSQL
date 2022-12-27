@@ -1,15 +1,22 @@
 # Curso-PLSQL
 ## Contenidos
-*[Título] (#Título)
-*[Ejercicios resueltos] (#Ejercicios resueltos)
 
+* [Objetivo](#objetivo)
+
+* [Archivos](#archivos)
+
+* [Ejercicios resueltos](#ejercicios-resueltos)
+
+## Objetivo
 Ejemplos para revisar el lenguaje PL/SQL. 
 
+## Archivos
 Hay ejemplos para explicar las estructuras de control: secuencia, condición y repetición.
 
 1. $\textbf{PLSQL-Basico.SQL}$ -> Contiene las explicaciones de secuencia, condición y repetición
 2. $\textbf{EjerciciosCiclos-PLSQL.SQL}$  -> Contiene ejercicios para usar las estructuras de control. Los ejercicios a resolver:
 
+## Ejercicios resueltos
 - Construir un bloque anónimo que permita sumar todos los pares que hay entre los valores a y b (valores leídos desde teclado)
 - Construir un bloque anónimo que permita imprimir un mensaje que indique si un número (leído desde teclado) es primo o no.
 - Construir un bloque anónimo que permita leer un número entero y muestre por pantalla un triángulo rectángulo como el de más abajo
